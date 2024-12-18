@@ -35,7 +35,7 @@ $portal-theme: mat.define-theme((
 // Comment out the line below if you want to use the deprecated `color` inputs.
 // @include mat.color-variants-backwards-compatibility($portal-theme);
 /* You can add global styles to this file, and also import other style files */
-@import "@coreui/coreui/scss/coreui";
+// @import "@coreui/coreui/scss/coreui";
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
